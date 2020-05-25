@@ -13,4 +13,4 @@ The data source are from [PUBG Match Deaths and Statistics](https://www.kaggle.c
 Both of these analysis will give players insights for the sake of survival strategy.
 
 ## Analytic tools
-Because the data size is 19GB, we use __Pyspark__ to do data analysis and __Plotly__ tp do EDA. 
+Because the data size is 19GB, we use __Pyspark__ to do data analysis and __Plotly__ tp do EDA. We store the data in AWS S3 buckets.
