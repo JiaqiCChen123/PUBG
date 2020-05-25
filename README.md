@@ -1,4 +1,4 @@
-# PUBG Statictic Analysis and EDA
+# PUBG Statistic Analysis and EDA
 
 PUBG is a popular video games nowadays. In the game, up to one hundred players parachute onto an island and search for weapons and equipment to kill others until the last player or team standing wins the round. This time, we focus on the players behavior in single games and the winnning rates to see whether there are potential patterns.
 
